@@ -1,0 +1,26 @@
+.bocket-bot-showroom {
+    border-radius: 13px;
+    border: 1px solid #c7c7c7;
+    width: 91.1%;
+    background: #000;
+    text-align: center;
+    padding: 0.55%;
+}
+
+img {
+    width: 18.5vw;
+    height: 18.5vw;
+    border-radius: 0 0 50% 50%;
+}
+
+.you-are-betting-with, .you-are-trading-with {
+    font-size: 2.5vw;
+}
+
+.bot-version-detail {
+    font-size: 5.1vw;
+}
+
+.private-wealth-engineer {
+    font-size: 3.5vw;
+}
